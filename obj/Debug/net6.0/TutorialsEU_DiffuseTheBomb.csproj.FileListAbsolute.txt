@@ -1,0 +1,15 @@
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_DiffuseTheBomb\bin\Debug\net6.0\TutorialsEU_DiffuseTheBomb.exe
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_DiffuseTheBomb\bin\Debug\net6.0\TutorialsEU_DiffuseTheBomb.deps.json
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_DiffuseTheBomb\bin\Debug\net6.0\TutorialsEU_DiffuseTheBomb.runtimeconfig.json
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_DiffuseTheBomb\bin\Debug\net6.0\TutorialsEU_DiffuseTheBomb.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_DiffuseTheBomb\bin\Debug\net6.0\TutorialsEU_DiffuseTheBomb.pdb
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_DiffuseTheBomb\obj\Debug\net6.0\TutorialsEU_DiffuseTheBomb.csproj.AssemblyReference.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_DiffuseTheBomb\obj\Debug\net6.0\TutorialsEU_DiffuseTheBomb.GeneratedMSBuildEditorConfig.editorconfig
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_DiffuseTheBomb\obj\Debug\net6.0\TutorialsEU_DiffuseTheBomb.AssemblyInfoInputs.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_DiffuseTheBomb\obj\Debug\net6.0\TutorialsEU_DiffuseTheBomb.AssemblyInfo.cs
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_DiffuseTheBomb\obj\Debug\net6.0\TutorialsEU_DiffuseTheBomb.csproj.CoreCompileInputs.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_DiffuseTheBomb\obj\Debug\net6.0\TutorialsEU_DiffuseTheBomb.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_DiffuseTheBomb\obj\Debug\net6.0\refint\TutorialsEU_DiffuseTheBomb.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_DiffuseTheBomb\obj\Debug\net6.0\TutorialsEU_DiffuseTheBomb.pdb
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_DiffuseTheBomb\obj\Debug\net6.0\TutorialsEU_DiffuseTheBomb.genruntimeconfig.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_DiffuseTheBomb\obj\Debug\net6.0\ref\TutorialsEU_DiffuseTheBomb.dll
