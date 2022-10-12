@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\_WorkRelated\\TutorialsEU\\Manning\\Projects\\TutorialsEU_DiffuseTheBomb\\TutorialsEU_DiffuseTheBomb.csproj": {}
+    "E:\\_WorkRelated\\TutorialsEU\\Manning\\Projects\\Github projects\\TutorialsEU_DiffuseTheBomb\\TutorialsEU_DiffuseTheBomb.csproj": {}
   },
   "projects": {
-    "E:\\_WorkRelated\\TutorialsEU\\Manning\\Projects\\TutorialsEU_DiffuseTheBomb\\TutorialsEU_DiffuseTheBomb.csproj": {
+    "E:\\_WorkRelated\\TutorialsEU\\Manning\\Projects\\Github projects\\TutorialsEU_DiffuseTheBomb\\TutorialsEU_DiffuseTheBomb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\_WorkRelated\\TutorialsEU\\Manning\\Projects\\TutorialsEU_DiffuseTheBomb\\TutorialsEU_DiffuseTheBomb.csproj",
+        "projectUniqueName": "E:\\_WorkRelated\\TutorialsEU\\Manning\\Projects\\Github projects\\TutorialsEU_DiffuseTheBomb\\TutorialsEU_DiffuseTheBomb.csproj",
         "projectName": "TutorialsEU_DiffuseTheBomb",
-        "projectPath": "E:\\_WorkRelated\\TutorialsEU\\Manning\\Projects\\TutorialsEU_DiffuseTheBomb\\TutorialsEU_DiffuseTheBomb.csproj",
+        "projectPath": "E:\\_WorkRelated\\TutorialsEU\\Manning\\Projects\\Github projects\\TutorialsEU_DiffuseTheBomb\\TutorialsEU_DiffuseTheBomb.csproj",
         "packagesPath": "C:\\Users\\jafar\\.nuget\\packages\\",
-        "outputPath": "E:\\_WorkRelated\\TutorialsEU\\Manning\\Projects\\TutorialsEU_DiffuseTheBomb\\obj\\",
+        "outputPath": "E:\\_WorkRelated\\TutorialsEU\\Manning\\Projects\\Github projects\\TutorialsEU_DiffuseTheBomb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
